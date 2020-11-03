@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.luisfellipe.testalivro.CT03AmazonTest
+Test set: com.luisfellipe.testalivro.SuiteTest.SuiteTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.312 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.812 sec
